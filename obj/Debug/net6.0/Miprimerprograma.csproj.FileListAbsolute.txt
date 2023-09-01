@@ -1,0 +1,14 @@
+C:\ReposLogic\Miprimerprograma\bin\Debug\net6.0\Miprimerprograma.exe
+C:\ReposLogic\Miprimerprograma\bin\Debug\net6.0\Miprimerprograma.deps.json
+C:\ReposLogic\Miprimerprograma\bin\Debug\net6.0\Miprimerprograma.runtimeconfig.json
+C:\ReposLogic\Miprimerprograma\bin\Debug\net6.0\Miprimerprograma.dll
+C:\ReposLogic\Miprimerprograma\bin\Debug\net6.0\Miprimerprograma.pdb
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.AssemblyInfoInputs.cache
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.AssemblyInfo.cs
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.csproj.CoreCompileInputs.cache
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.dll
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\refint\Miprimerprograma.dll
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.pdb
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\Miprimerprograma.genruntimeconfig.cache
+C:\ReposLogic\Miprimerprograma\obj\Debug\net6.0\ref\Miprimerprograma.dll
